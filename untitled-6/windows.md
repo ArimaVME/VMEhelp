@@ -4,7 +4,7 @@ description: 提供windows相关资源下载
 
 # Windows
 
-VME客户端**（推荐使用！！！）**: 点我下载
+VME客户端**（推荐使用！！！）**: [点我下载](https://vme.icu/client-download/VME-win.exe)
 
 v2ray客户端 : 点我下载
 

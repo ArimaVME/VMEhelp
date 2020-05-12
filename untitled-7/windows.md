@@ -6,7 +6,7 @@ description: windows常见问题汇总
 
 ### VME客户端
 
-* **VME 客户端下载后无法打开控制面板？** 恭喜您！！您的PC不支持OpenGL, 访问[资源相关下载](../zi-yuan-xiang-guan-xia-zai/)选择下载 Clash 客户端（或者V2rayN客户端）。
+* **VME 客户端下载后无法打开控制面板？** 恭喜您！！您的PC不支持OpenGL, 访问[资源相关下载](../untitled-6/)选择下载 Clash 客户端（或者V2rayN客户端）。
 
 ### Clash常见问题
 

@@ -1,6 +1,6 @@
 ---
-description: 有关IOS的使用教程
+description: 有关Linux的使用教程
 ---
 
-# IOS
+# Linux
 

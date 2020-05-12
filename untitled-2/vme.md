@@ -8,7 +8,7 @@ description: 在 macOS 上使用 VME 客户端接入流量中继服务
 
 ## 1.一键加速客户端\(已支持V2ray\)
 
-下载 VME MAC 客户端，安装后运行。[ 下载 VME MAC 客户端](https://github.com/ArimaVME/VMEhelp/tree/8455a34a9a4900ccb0955c04c41f1f7c4fb800b6/untitled-2/%7B%7Bbook.downland%7D%7D/client-download/VME-MAC.tar.gz)
+下载 VME MAC 客户端，安装后运行。[ 下载 VME MAC 客户端](https://vme.icu/client-download/VME-MAC.dmg)
 
 第一次使用请确保已在&lt;商店&gt;点击&lt;免费订阅&gt;或购买套餐，否则没有任何节点可供使用。
 

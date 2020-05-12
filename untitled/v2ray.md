@@ -6,7 +6,7 @@ description: 使用前先购买本站的套餐
 
 ## 1.下载v2ray客户端
 
-[点我下载](https://baidu.com)
+[点我下载](https://vme.icu/client-download/v2rayN-Core.zip)
 
 ![](../.gitbook/assets/v2ray1.png)
 
